@@ -1,2 +1,2 @@
 # Image-Galley
-Image gallery
+Image gallery made with PHP, MYSQL and Bootstrap.
